@@ -1,3 +1,3 @@
 # firestproject
-This is my second gir repository.
+This is my second giT repository.
 Author Junaid
